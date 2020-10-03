@@ -1,7 +1,7 @@
 import socket
 import threading
 
-IP = "10.100.102.2"
+IP = ""
 HEADER = 64
 PORT = 5555
 FORMAT = 'utf-8'
